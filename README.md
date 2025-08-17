@@ -24,6 +24,12 @@
   </picture>
 </a>
 
+<p align="center">
+  <a href="https://myboke.kemiaosw.top">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kemiaofxjun&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+  </a>
+</p>
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ## 📦 Open source projects
