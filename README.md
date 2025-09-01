@@ -21,7 +21,7 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-[![kemiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kemiaofxjun&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/kemiaofxjun/kemiaofxjun)
+[![kemiao's GitHub stats](https://readme.kemeow.top/api?username=kemiaofxjun&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/kemiaofxjun/kemiaofxjun)
 
 <p align="center">
   <a href="https://myboke.kemiaosw.top">
